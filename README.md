@@ -1,2 +1,1 @@
-Python-Mini-Project
-Working on its GUI now, the basic riddle is ready...
+
